@@ -8,6 +8,7 @@ namespace PruebaGit2
         {
             Console.WriteLine("Hola GitHub desde local");
             Console.WriteLine("Desde local 123");
+            Console.WriteLine("Desde remoto");
         }
     }
 }
