@@ -6,7 +6,7 @@ namespace PruebaGit2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola GitHub desde Nuevo");
+            Console.WriteLine("Hola GitHub desde Nuevo 2");
         }
     }
 }
